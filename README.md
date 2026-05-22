@@ -14,4 +14,18 @@ Instead, this notebook uses synthetic air quality data with a similar structure 
 - model evaluation using MAE, RMSE, MAPE, and Index of Agreement
 - 7-day forecasting demonstration
 
+# Model Architecture
+
+### LSTM Architecture
+
+![LSTM Architecture](images/model_architecture_lstm.png)
+
+The LSTM architecture consists of sequential LSTM layers, dropout regularization, fully connected layers, and an output layer for time series forecasting.
+
+### CNN-LSTM Architecture
+
+![CNN-LSTM Architecture](images/model_architecture_cnn_lstm.png)
+
+The CNN-LSTM architecture combines convolutional layers for local temporal feature extraction and LSTM layers for sequential pattern learning, followed by dropout and fully connected layers for forecasting output generation.
+
 This notebook is intended to show the methodology and technical implementation while maintaining data confidentiality.
