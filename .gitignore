@@ -1,0 +1,25 @@
+# Confidential data
+data/
+*.csv
+*.xlsx
+*.xls
+*.sav
+*.parquet
+
+# Model files
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+.venv/
