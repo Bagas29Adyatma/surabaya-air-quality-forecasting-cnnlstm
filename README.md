@@ -1,5 +1,15 @@
-## Public Demo Notebook
 
+# Official Thesis Record
+
+This project is based on my undergraduate thesis at Institut Teknologi Sepuluh Nopember (ITS):
+
+**Peramalan Indeks Kualitas Udara di Kota Surabaya Menggunakan Metode LSTM dan CNN-LSTM**
+
+The official thesis record is available at the ITS Repository:
+
+[Official ITS Repository Record](http://repository.its.ac.id/id/eprint/126262)
+
+## Public Demo Notebook
 The file `air_quality_forecasting_lstm_cnn_lstm_public_demo.ipynb` is a public demonstration notebook created for portfolio purposes. It does not contain the original dataset from the Environmental Agency of Surabaya City due to a data-sharing agreement.
 
 Instead, this notebook uses synthetic air quality data with a similar structure to demonstrate the main modeling workflow used in the thesis, including:
